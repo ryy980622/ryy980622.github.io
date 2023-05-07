@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuyang Ren"
-description              : "Shanghai Jiao Tong University"
+description              : "Ph.D. Candidate"
 repository               : "ryy980622/ryy980622.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuyang Ren"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
+  bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
