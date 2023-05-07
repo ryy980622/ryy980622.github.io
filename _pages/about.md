@@ -47,7 +47,7 @@ My research interest includes **graph representation learning** and **recommende
 - *2017.12* ACM EC Final, Shanghai, Bronze Medal. 
 
 # 📖 Educations
-- *2020.09 - 2023.05 (now)*, Ph. D cancidate, Department of Computer Science and Technology, Shanghai Jiao Tong University. 
+- *2020.09 - 2023.05 (now)*, Ph. D Cancidate, Department of Computer Science and Technology, Shanghai Jiao Tong University. 
 - *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Technology, Tianjin University. 
 
 
