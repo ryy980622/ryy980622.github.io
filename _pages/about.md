@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I’m currently a third-year Ph.D candidate in Computer Science in IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
+I’m currently a third-year Ph.D. candidate in Computer Science in IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
 
 My research interest includes **graph representation learning** and **recommender systems**. 
 
@@ -47,7 +47,7 @@ My research interest includes **graph representation learning** and **recommende
 - *2017.12* ACM EC Final, Shanghai, Bronze Medal. 
 
 # 📖 Educations
-- *2020.09 - 2023.05 (now)*, Ph. D Cancidate, Department of Computer Science and Technology, Shanghai Jiao Tong University. 
+- *2020.09 - 2023.05 (now)*, Ph. D. Cancidate, Department of Computer Science and Technology, Shanghai Jiao Tong University. 
 - *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Technology, Tianjin University. 
 
 
