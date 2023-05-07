@@ -34,27 +34,20 @@ My research interest includes **graph representation learning** and **recommende
 
 - <span class='paper-badge'>SIGIR 2023</span> **Distillation-Enhanced Graph Masked Autoencoders for Bundle Recommendation**, *<u>Yuyang Ren</u>, Haonan Zhang, Luoyi Fu, Xinbing Wang and Chenghu Zhou*, in *SIGIR*, 2023
 
-- <span class='paper-badge'>TKDD 2023</span> **Ada-MIP: Adaptive Self-supervised Graph Representation Learning via Mutual Information and Proximity Optimization**, *<u>Yuyang Ren</u>, Haonan Zhang, Peng Yu, Luoyi Fu, Xinde Cao, Xinbing Wang, Guihai Chen, Fei Long, Chenghu Zhou*, in *TKDD*, 2023
+- <span class='paper-badge'>TKDD 2023</span> **Ada-MIP: Adaptive Self-supervised Graph Representation Learning via Mutual Information and Proximity Optimization**, *<u>Yuyang Ren</u>, Haonan Zhang, Peng Yu, Luoyi Fu, Xinde Cao, Xinbing Wang, Guihai Chen, Fei Long, Chenghu Zhou*, in *TKDD*, 2023, [PDF](https://dl.acm.org/doi/pdf/10.1145/3568165)
+
+- <span class='paper-badge'>arxiv 2023</span> **Disentangled Graph Contrastive Learning for Review-based Recommendation**, *<u>Yuyang Ren</u>, Haonan Zhang, Qi Li, Luoyi Fu, Jiaxin Ding, Xinde Cao, Xinbing Wang, Chenghu Zhou*, in *arxiv*, 2022, [PDF](https://arxiv.org/pdf/2209.01524)
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09* National Scholarship. 
+- *2017.10* ACM ICPC, Shenyang, Silver Medal. 
+- *2017.11* ACM CCPC, Hangzhou, Silver Medal. 
+- *2017.12* ACM EC Final, Shanghai, Bronze Medal. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2023.05 (now)*, Ph. D cancidate, Department of Computer Science and Technology, Shanghai Jiao Tong University. 
+- *2016.09 - 2020.06*, Undergraduate, Department of Computer Science and Technology, Tianjin University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
