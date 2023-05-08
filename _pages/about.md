@@ -20,7 +20,7 @@ redirect_from:
 
 I’m currently a third-year Ph.D. candidate in Computer Science in IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
 
-My research interest includes **graph representation learning** and **recommender systems**. 
+My research interest includes **graph representation learning** and **data mining**. Specifically, I am devoted to research of supervised and self-supervised graph representation learning, and recommender systems under different scenarios.
 
 
 # 🔥 News
@@ -40,7 +40,7 @@ My research interest includes **graph representation learning** and **recommende
 
 
 
-# 🎖 Honors and Awards
+# 🎖Awards
 - *2018.09* National Scholarship. 
 - *2017.10* ACM ICPC, Shenyang, Silver Medal. 
 - *2017.11* ACM CCPC, Hangzhou, Silver Medal. 
