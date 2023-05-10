@@ -40,6 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.paper-badge {
+    background-color:#03228d; 
+    color: white; 
+    font-size: .6875em; 
+    padding: 3px; 
+    border-radius:5px;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
