@@ -36,7 +36,11 @@ My research interest includes **graph representation learning** and **data minin
 
 - <span class='paper-badge'>TKDD 2023</span> **Ada-MIP: Adaptive Self-supervised Graph Representation Learning via Mutual Information and Proximity Optimization**, *<u>Yuyang Ren</u>, Haonan Zhang, Peng Yu, Luoyi Fu, Xinde Cao, Xinbing Wang, Guihai Chen, Fei Long, Chenghu Zhou*, in *TKDD*, 2023, [PDF](https://dl.acm.org/doi/pdf/10.1145/3568165)
 
+- <span class='paper-badge'>TKDD 2023</span> **Hi-PART: Going beyond Graph Pooling with Hierarchical Partition Tree for Graph-level Representation Learning(TKDD)**, *<u>Yuyang Ren</u>, Haonan Zhang, Luoyi Fu, Shiyu Liang, Lei Zhou, Xinde Cao, Xinbing Wang, Fei Long, Chenghu Zhou*, in *TKDD*, 2023 (under review)
+
 - <span class='paper-badge'>arxiv 2023</span> **Disentangled Graph Contrastive Learning for Review-based Recommendation**, *<u>Yuyang Ren</u>, Haonan Zhang, Qi Li, Luoyi Fu, Jiaxin Ding, Xinde Cao, Xinbing Wang, Chenghu Zhou*, in *arxiv*, 2022, [PDF](https://arxiv.org/pdf/2209.01524)
+
+- <span class='paper-badge'>TKDE 2023</span> **Multi-Scale Self-Supervised Graph Contrastive Learning with Injective Node Augmentation**, *Haonan Zhang, <u>Yuyang Ren</u>, Luoyi Fu, Xinbing Wang, Guihai Chen, Chenghu Zhou*, in *TKDE*, 2023 (under review)
 
 
 
